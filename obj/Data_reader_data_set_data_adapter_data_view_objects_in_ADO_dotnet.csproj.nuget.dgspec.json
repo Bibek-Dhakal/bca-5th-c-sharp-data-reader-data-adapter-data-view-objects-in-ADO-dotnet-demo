@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\DOT_NET_PROJECTS\\dotnet_core_C#\\console\\Data_reader_data_set_data_adapter_data_view_objects_in_ADO_dotnet\\Data_reader_data_set_data_adapter_data_view_objects_in_ADO_dotnet.csproj": {}
+  },
+  "projects": {
+    "F:\\DOT_NET_PROJECTS\\dotnet_core_C#\\console\\Data_reader_data_set_data_adapter_data_view_objects_in_ADO_dotnet\\Data_reader_data_set_data_adapter_data_view_objects_in_ADO_dotnet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\DOT_NET_PROJECTS\\dotnet_core_C#\\console\\Data_reader_data_set_data_adapter_data_view_objects_in_ADO_dotnet\\Data_reader_data_set_data_adapter_data_view_objects_in_ADO_dotnet.csproj",
+        "projectName": "Data_reader_data_set_data_adapter_data_view_objects_in_ADO_dotnet",
+        "projectPath": "F:\\DOT_NET_PROJECTS\\dotnet_core_C#\\console\\Data_reader_data_set_data_adapter_data_view_objects_in_ADO_dotnet\\Data_reader_data_set_data_adapter_data_view_objects_in_ADO_dotnet.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\DOT_NET_PROJECTS\\dotnet_core_C#\\console\\Data_reader_data_set_data_adapter_data_view_objects_in_ADO_dotnet\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\user\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
